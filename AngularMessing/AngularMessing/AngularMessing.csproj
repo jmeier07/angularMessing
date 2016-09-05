@@ -215,6 +215,8 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\QueryApp\QueryApp.js" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
